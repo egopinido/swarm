@@ -28,3 +28,4 @@ assert(status['node-alpha']);
 assert(status['node-beta']);
 
 console.log('Omudia Swarm test passed with 100% assertions valid.');
+
