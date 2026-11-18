@@ -1,17 +1,17 @@
 # 🐝 Omudia Swarm (`@omudia/swarm`)
-### Distributed Multi-Provider Orchestrator, Circuit Breaker & High-Availability Proxy
+### Distributed Multi-Provider Orchestrator, Circuit Breaker & High-Availability Proxy (Next-Gen SMM Panel Module)
 
 Part of the **[Omudia Ecosystem](https://omudia.com)**.
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)](https://omudia.com)
-[![Ecosystem](https://img.shields.io/badge/Ecosystem-Omudia-7C3AED.svg)](https://github.com/egopinido)
+[![Status](https://img.shields.io/badge/Status-Coming%20Soon%20%7C%20قريباً-F59E0B.svg)](https://omudia.com)
+[![Ecosystem](https://img.shields.io/badge/Ecosystem-Omudia%20SMM%20Panel-7C3AED.svg)](https://github.com/egopinido)
 
 ---
 
 ## 📖 Overview
 
-`@omudia/swarm` is the high-concurrency resilience engine behind Omudia's 99.9% uptime architecture. It abstracts downstream network variability through an automated 3-state Circuit Breaker (`CLOSED`, `OPEN`, `HALF_OPEN`), intelligent load distribution, and automated failover across redundant provider edge nodes.
+`@omudia/swarm` is the high-concurrency resilience engine behind Omudia's **Next-Generation SMM Panel (لوحة خدمات السوشيال ميديا ونمو الحضور الرقمي الذكية)** and 99.9% uptime architecture. It abstracts downstream network variability through an automated 3-state Circuit Breaker (`CLOSED`, `OPEN`, `HALF_OPEN`), intelligent load distribution, and automated failover across redundant provider edge nodes.
 
 ## ✨ Key Capabilities
 
