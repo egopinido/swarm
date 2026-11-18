@@ -1,0 +1,19 @@
+{
+  "name": "@omudia/swarm",
+  "version": "1.0.0",
+  "description": "Omudia Swarm - Distributed Multi-Provider Orchestrator, Circuit Breaker & High-Availability Traffic Proxy",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/swarm.test.js"
+  },
+  "keywords": [
+    "omudia",
+    "swarm",
+    "circuit-breaker",
+    "distributed-mesh",
+    "high-availability",
+    "failover-proxy"
+  ],
+  "author": "Omudia Ecosystem (egopinido)",
+  "license": "Apache-2.0"
+}
